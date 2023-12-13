@@ -35,3 +35,10 @@ public class Ejemplo03 {
     }
 
 }
+
+/*
+el primer arreglo se lo declara con espacios en blanco
+en el segundo hace lo mismo pero en dos lines porque primero lo declara y luego
+le da un valor, en el tercero le asigna varios valores, en el cuarto es decimal 
+y declara varios valores, en el quinto es de tipo cadena y tiene valores de texto
+*/
