@@ -30,8 +30,8 @@ public class Ejemplo062 {
         cualquier otro numero tiene que salir 5*/
             System.out.println("Ingrese un valor para el arreglo");
             dato = entrada.nextInt();
-            if (dato < 5 || dato == 10 || dato == 12 | dato > 14){ 
-            //con or (|) los excluyo
+            if (dato < 5 || dato == 10 || dato == 12 || dato > 14){ 
+            // con or (|) los excluyo
                 dato = 5;
             }
             // se asigna la variable dato a la posición del arreglo

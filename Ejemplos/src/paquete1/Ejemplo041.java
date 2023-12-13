@@ -24,7 +24,7 @@ public class Ejemplo041 {
         // System.out.println(arreglo1.length);
         arreglo1[2] = 1000;
         for (int i = 0; i < arreglo1.length; i++) {
-            //me va a dar el numero de elementos que tiene ese arreglo
+            // me va a dar el numero de elementos que tiene ese arreglo
             cadena = String.format("%sSubindice o Índice %d, con valor %d\n",
                     cadena, i,arreglo1[i]);
             suma = suma + arreglo1[i];
